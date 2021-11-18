@@ -1,0 +1,25 @@
+#image{
+  max-width: 100%;
+  heigth: auto;
+  margin: auto;
+  display: block;
+}
+#title{
+   text-align: center;
+    background-color: rgba(45, 45, 45, 0.1);
+    padding: 10px;
+    font-size: 54px;
+    font-weight: 500;
+   box-shadow: 5px 10px 20px rgba(0,0,0,0.19), 5px 6px 6px rgba(0,0,0,0.23);
+}
+
+#img-div{
+  position: realtive;
+}
+#main{
+  position: relative;
+  width: auto;
+}
+body{
+  width: 75vmax;
+}
